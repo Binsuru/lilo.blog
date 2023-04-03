@@ -1,7 +1,7 @@
 +++
 title = "Leben im Weltall"
 date = "2023-04-03"
-draft = true
+draft = false
 pinned = false
 +++
 # Erst-Text zum Reportageprojekt
