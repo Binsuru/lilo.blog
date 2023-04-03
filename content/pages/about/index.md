@@ -1,8 +1,8 @@
 +++
 title = "About me"
 draft = false
+image = "pexels-matheus-bertelli-1830252-1-1-.jpg"
 description = ""
-image = ""
 +++
 ![](/img/default-author.jpg)
 
