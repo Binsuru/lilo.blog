@@ -3,6 +3,8 @@ title = "Aufbruch ins Unbekannte: Die Zukunft der Menschheit im Weltraum"
 date = "2023-05-31"
 draft = false
 pinned = true
+tags = ["Deutsch", "Reportage"]
+image = "sternenhimmel-1-.png"
 description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die Ressourcen schwinden und der Platz wird knapp. Doch was, wenn wir einen Ausweg hätten? Die Antwort scheint im Weltall zu liegen. Aber wie sollen wir dorthin gelangen und woher nehmen wir die benötigten Mittel? Wir haben recherchiert und waren auf der Suche nach Antworten."
 +++
 {{<lead>}}
@@ -13,7 +15,7 @@ Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gele
 
 ***Eine Reportage von Said Khalef und Nestor Borter***
 
-![Ben Moore](benmoore.png.jpg)
+![Ben Moore](bennmore.png)
 
 Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
 
@@ -53,7 +55,7 @@ Der am nächsten gelegene Ort, bei dem wir weitere Lebensräume errichten könnt
 
 ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher Strahlung und Partikeln aus dem Weltall schützt. Es hat zwar eine sehr geringe Atmosphäre, welche aber viel zu undicht wäre, um dort ein Leben zu führen. 
 
-![Unser erstes Ziel, aufgenommen von Said Khalef](bild5.jpg)
+![Unser erstes Ziel, aufgenommen von Said Khalef](syriendach.png)
 
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
@@ -65,7 +67,7 @@ Sobald wir es geschafft haben, den Mond zu unserem Gebiet zu machen, können wir
 
 Ein weiterer Ort, an dem die Menschheit praktisch unendlich ausbreiten und das Platzproblem lösen könnte, wäre mitten im Weltraum. Die Idee klingt zwar utopisch, aber in Zeiten, in denen das Bevölkerungswachstum und die Ressourcenknappheit immer bedrohlicher werden, ist es notwendig, innovative Lösungen zu suchen. Natürlich wäre Sauerstoff eine der größten Herausforderungen für das Leben im Weltall, da es keinen natürlichen Vorrat gibt. Man müsste ein geschlossenes System machen, in dem der Sauerstoff nicht entweichen kann. Eine Möglichkeit wäre, den Sauerstoff mit großen Ladungen dorthin zu transportieren, aber das wäre nicht sehr nachhaltig. Eine andere Lösung wäre, ein eigenes Ökosystem im Weltraum zu schaffen, indem wir Pflanzen anpflanzen und damit Sauerstoff produzieren. Mit dieser Methode könnten wir die Bevölkerung im Weltall unabhängig von der Bevölkerung hier auf der Erde machen und so möglicherweise einige der Probleme unserer Menschheit lösen.
 
-![Eine baldige Zukunft für die Menschheit. Bildquelle: benmoore.ch](reportage_zukunft.jpg "Eine baldige Zukunft für die Menschheit.")
+![Eine baldige Zukunft für die Menschheit. Bildquelle: benmoore.ch](sternenhimmel.png "Eine baldige Zukunft für die Menschheit.")
 
 ## Transport und Kommunikation
 
