@@ -2,9 +2,9 @@
 title = "About me"
 draft = false
 image = "pexels-matheus-bertelli-1830252-1-1-.jpg"
-description = ""
+description = "elo"
 +++
-![](/img/default-author.jpg)
+![elo](pexels-matheus-bertelli-1830252-1-1-.jpg "elo")
 
 ## My Name
 
