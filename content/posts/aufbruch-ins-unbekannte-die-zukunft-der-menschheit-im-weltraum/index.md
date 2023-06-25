@@ -15,7 +15,7 @@ Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gele
 
 ***Eine Reportage von Said Khalef und Nestor Borter***
 
-![Ben Moore](bennmore.png)
+![Professor Dr. Ben Moore](bennmore.png)
 
 Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein, dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
 
